@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;600;700&display=swap");
+.navTitle {
+  font-size: 15px;
+  color: #a4a4a4;
+  font-family: "Lato", "open-sans";
+  line-height: 0px;
+  font-weight: 700;
+}
+
+.nav-link:hover {
+  color: #ff6c40;
+}
+
+.navbar-brand {
+  font-size: 27px;
+  font-weight: 700;
+  color: #000000;
+  line-height: 0px;
+  letter-spacing: -2px;
+}
+
+.Title {
+  font-size: 22px;
+  font-weight: 600;
+  font-family: "Lato", "open-sans";
+}
+
+.sep {
+  width: 30%;
+}
+
+.description {
+  font-size: 15px;
+  font-weight: 400;
+  font-family: "Lato", "open-sans";
+  line-height: 24px;
+  color: #535353;
+}
+
+.button, .btnprev {
+  color: #ff6c40;
+  outline: 1px;
+  outline-color: #ff6c40;
+  outline-style: solid;
+  font-size: 13px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.tag {
+  font-size: 13px;
+  color: #535353;
+  font-weight: 700;
+}
+
+.btnprev {
+  background-color: black;
+  outline: none;
+  color: white;
+}
+
+/*# sourceMappingURL=style.css.map */
